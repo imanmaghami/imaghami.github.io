@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /portfolio/    
+    
+  - title: "Courses"
+    url: /courses/
+        
+  # - title: "Talks"
+  #   url: /talks/  
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Me beyond academia"
+    url: /personal/ 
